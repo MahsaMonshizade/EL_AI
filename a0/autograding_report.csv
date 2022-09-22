@@ -1,0 +1,27 @@
+section,online
+teamname,mmonshiz
+commit used,e27dec2123bd634619e5525d573cddf1cb764bd2
+commit date,2021-09-16 21:25:42
+test_question1_case1_points,10
+test_question1_case1_status,passed
+test_question1_case2_points,10
+test_question1_case2_status,passed
+test_question1_case3_points,10
+test_question1_case3_status,passed
+test_question1_case4_points,10
+test_question1_case4_status,passed
+test_question1_case5_points,0
+test_question1_case5_status,failed
+test_question2_case1_points,10
+test_question2_case1_status,passed
+test_question2_case2_points,0
+test_question2_case2_status,failed
+test_question2_case3_points,10
+test_question2_case3_status,passed
+test_question2_case4_points,10
+test_question2_case4_status,passed
+test_question2_case5_points,10
+test_question2_case5_status,passed
+Total,80
+Late Penalty,0
+Total Autograding,80
